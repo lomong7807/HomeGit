@@ -10,7 +10,7 @@ lomong content 2
 TWGearlgrey content 3
 pull request test 1
 ====================
-1.
+1. merge test
 ====================
 2. TWGearlgrey content 4
 ====================
