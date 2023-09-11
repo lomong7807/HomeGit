@@ -2,3 +2,4 @@ master 1
 sungwoo content 1
 TWGearlgrey content 1
 lomong content 1
+lomong content 2
