@@ -1,6 +1,8 @@
 master 1
 master 2
 sungwoo content 1
+sungwoo content 2
+sungwoo content 3
 TWGearlgrey content 1
 lomong content 1
 MESSAGE WHEN PULL.. git pull origin master.. TWGearlgrey content 1
